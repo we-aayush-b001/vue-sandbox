@@ -5,7 +5,8 @@
     <router-link to="/post">Props Example</router-link> |
     <router-link to="/slots">Slots Example</router-link> |
     <router-link to="/all-posts">Show All Posts</router-link> |
-    <router-link to="/custom-input">Example of Custom Input</router-link>
+    <router-link to="/custom-input">Example of Custom Input</router-link> |
+    <router-link to="/pinia-store">See The P-Store</router-link>
   </nav>
 
   <router-view />
