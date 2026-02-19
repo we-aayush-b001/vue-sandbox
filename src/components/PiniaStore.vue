@@ -11,6 +11,6 @@
 
 
 
-<scipt setup>
+<script setup>
 
-</scipt>
+</script>
